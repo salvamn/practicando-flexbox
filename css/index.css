@@ -298,14 +298,5 @@ footer div:hover{
 
 }
 
-@media (min-width: 375px){
-    pre{
-        width: 320px;
-    }
-
-    code{
-        width: auto;
-    }
-}
 
 

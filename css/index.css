@@ -24,7 +24,7 @@ p{
     text-align: justify;
 }
 
-pre{
+/*pre{
     background: #333;
     color: white;
     padding-left: 5%;
@@ -32,6 +32,10 @@ pre{
     margin-bottom: 2%;
     border: 1px ridge #333;
     border-radius: 10px;
+}*/
+
+code{
+    border-radius: 8px;
 }
 
 
@@ -231,6 +235,10 @@ footer{
 footer div{
     margin-left: 1%;
     margin-right: 1%;
+}
+
+footer div:hover{
+    transform: scale(1.3);
 }
 
 

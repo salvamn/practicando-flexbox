@@ -35,8 +35,10 @@ p{
 }*/
 
 code{
-    border-radius: 8px;
+    border-radius: 10px;
 }
+
+
 
 
 
@@ -217,6 +219,11 @@ aside{
     padding: 2% 0% 2% 4%;
 }
 
+.ajustar{
+    display: block;
+    margin: auto;
+}
+
 /* Caja informacion----------------------------------------------------*/
 
 
@@ -246,7 +253,7 @@ footer div:hover{
 
 
 
-@media (max-width: 900px) {
+@media (max-width: 1025px) { /* 900 */
 
 
     #contenedor-navegacion{

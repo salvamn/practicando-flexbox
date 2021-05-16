@@ -290,6 +290,21 @@ footer div:hover{
     .imagen-varias{
         width: 250px;
     }
+
+    .parrafo-centrado-encajado{
+        width: auto;
+        height: auto;
+    }
+
+    pre{
+        width: auto;
+        height: auto;
+    }
+
+    code{
+        width: auto;
+        height: auto;
+    }
 }
 
 

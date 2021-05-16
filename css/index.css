@@ -189,6 +189,8 @@ aside{
 
 
 @media (max-width: 600px) {
+
+
     #contenedor-navegacion{
         display: none;
     }
@@ -197,6 +199,7 @@ aside{
         flex-direction: column;
         margin: 3%;
         width: auto;
+
     }
 
     #caja-aside{
@@ -207,6 +210,8 @@ aside{
     .centrar-titulo{
         margin: 2%;
         height: auto;
+        background-color: #3c3c92;
+        color: white;
     }
 
     #caja-informacion{

@@ -296,14 +296,15 @@ footer div:hover{
         height: auto;
     }
 
+}
+
+@media (min-width: 375px){
     pre{
-        width: auto;
-        height: auto;
+        width: 320px;
     }
 
     code{
         width: auto;
-        height: auto;
     }
 }
 

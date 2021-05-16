@@ -23,6 +23,16 @@ p{
     text-align: justify;
 }
 
+pre{
+    background: #333;
+    color: white;
+    padding-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 1px ridge #333;
+    border-radius: 10px;
+}
+
 
 
 
@@ -181,6 +191,20 @@ aside{
     /*border: 1px ridge rgba(51, 51, 51, 0.356);*/
     box-shadow: 12px 11px 15px 8px rgb(165 165 165);
 }
+
+.bajar-caja{
+    margin-bottom: 5%;
+}
+
+.parrafo-subrayado{
+    text-decoration: underline;
+}
+
+.parrafo-centrado-encajado{
+    border: 1px ridge rgba(51, 51, 51, 0.247);
+    padding: 2% 0% 2% 4%;
+}
+
 /* Caja informacion----------------------------------------------------*/
 
 
@@ -188,7 +212,7 @@ aside{
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
 
 
     #contenedor-navegacion{
@@ -210,8 +234,8 @@ aside{
     .centrar-titulo{
         margin: 2%;
         height: auto;
-        background-color: #3c3c92;
-        color: white;
+        background-color: #2b5b84;
+        color: #DFDFDF;
     }
 
     #caja-informacion{

@@ -255,9 +255,17 @@ footer div:hover{
 
 @media (max-width: 1025px) { /* 900 */
 
-
     #contenedor-navegacion{
-        display: none;
+        margin-bottom: 10%;
+    }
+
+    .menu-pegajoso{
+        background: #024b94;
+        position: fixed;
+    }
+
+    .menu-pegajoso div:hover{
+        transform: none;
     }
 
     #contenedor{
